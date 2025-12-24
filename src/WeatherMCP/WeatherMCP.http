@@ -1,0 +1,6 @@
+@WeatherMCP_HostAddress = http://localhost:5170
+
+GET {{WeatherMCP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
