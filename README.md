@@ -30,6 +30,9 @@ A Model Context Protocol (MCP) server providing comprehensive weather data throu
 - [Docker Compose](https://docs.docker.com/compose/install/) (optional, for easier management)
 
 ## Quick Start with Docker
+```bash
+docker pull weather-mcp-server:latest
+```
 
 ### Building the Docker Image
 
