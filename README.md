@@ -31,7 +31,7 @@ A Model Context Protocol (MCP) server providing comprehensive weather data throu
 
 ## Quick Start with Docker
 ```bash
-docker pull weather-mcp-server:latest
+docker pull saltystag/weather-mcp-server
 ```
 
 ### Building the Docker Image
