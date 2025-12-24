@@ -189,7 +189,7 @@ Get current weather conditions for a location.
 **Example Response:**
 ```json
 {
-  "location": "Destin, Florida, United States",
+  "location": "New York, NY, United States",
   "observationTime": "2024-12-24T10:00:00Z",
   "description": "Partly Cloudy",
   "temperatureF": 65.2,
